@@ -1,5 +1,7 @@
 # Automating Project Initialization ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
+For MAC USERS:
+
 ## Tired of doing that same project initialization every single time while creating a project? Not anymore!!!
 
 # Install:
@@ -22,7 +24,7 @@ Then go to create.py and set the username and password to be your username and p
 Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
 ```
 
-## Adding of github remote url in files:
+## Adding of github remote url in command script:
 
 For https:- `git remote add origin https://github.com/USERNAME/$1.git`
 
@@ -35,7 +37,7 @@ Refer, `Click on Reference 3` for further detailed explanation.
 # Usage:
 
 ```
-To run the script type in 'create <name of your folder/>repo>' in your terminal
+To run the script type in 'create <name of your folder/repo>' in your terminal
 ```
 
 ## To run this python script permanently for automating project initialization, read `Reference 1`.
