@@ -4,6 +4,8 @@
 
 **Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
  
+ Wanna take a look??👉🏻👉🏻[See Demo](https://youtu.be/Lpo5AOpjQqc)
+ 
 User can choose to install with any of the script, either with GithubAPI or Selenium, installation remains the same.
 
 # Installation:
