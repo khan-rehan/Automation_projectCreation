@@ -4,7 +4,7 @@
 
 **Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
  
-User can choose to install with any of the script, either with GithubAPI or Selenium
+User can choose to install with any of the script, either with GithubAPI or Selenium, installation remains the same.
 
 # Installation:
 
@@ -15,7 +15,7 @@ User can choose to install with any of the script, either with GithubAPI or Sele
 
 ```
 git clone "https://github.com/khan-rehan/Automation_projectInitialization.git"
-cd Automation_projectInitialization/("withGithubAPI"/"withSelenium")
+cd Automation_projectInitialization/("withGithubAPI"/"withSelenium") # choose any one GithubApi or Selenium
 
 pip install -r requirements.txt
 
