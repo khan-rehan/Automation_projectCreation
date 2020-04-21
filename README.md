@@ -3,21 +3,23 @@
 **For MAC USERS:**
 
 **Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
+ 
+User can choose to install with any of the script, either with GithubAPI or Selenium
 
 # Installation:
 
 **Note:-**
 
 - Install it in your home-directory eg: `/User/Your-homedirectory`
-- !Important "After your installment of the respectives mentioned in requirements.txt, you will also need chrome driver" so install that too in your home-directory, for installation [Click here](https://chromedriver.chromium.org/)
+- **For selenium** Important!! "After your installment of the respectives mentioned in requirements.txt, you will also need chrome driver" so install that too in your home-directory, for installation [Click here](https://chromedriver.chromium.org/)
 
 ```
 git clone "https://github.com/khan-rehan/Automation_projectInitialization.git"
-cd Automation_projectInitialization
+cd Automation_projectInitialization/("withGithubAPI"/"withSelenium")
 
 pip install -r requirements.txt
 
-source ~/.my_commands.sh
+source ~/.my_custom_commands.sh
 
 Then go to create.py and set the username and password to be your username and password also, in .my_custom_commands.sh  on line:8 put your github remote url, for detailed explanation on this take a look below👇🏻👇🏻👇🏻
 
