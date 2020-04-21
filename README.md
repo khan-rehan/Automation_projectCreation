@@ -4,7 +4,7 @@ For MAC USERS:
 
 ## Tired of doing that same project initialization every single time while creating a project? Not anymore!!!
 
-# Install:
+Installation:
 
 ## Note:-
 
@@ -40,7 +40,7 @@ Refer, `Click on Reference 3` for further detailed explanation.
 To run the script type in 'create <name of your folder/repo>' in your terminal
 ```
 
-## To run this python script permanently for automating project initialization, read `Reference 1`.
+ To run this python script permanently for automating project initialization, read `Reference 1`.
 
 Refereneces used to create this python script:
 
