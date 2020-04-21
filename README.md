@@ -6,7 +6,7 @@ For MAC USERS:
 
 Installation:
 
-## Note:-
+**Note:-**
 
 - Install it in your home-directory eg: `/User/Your-homedirectory`
 - !Important "After your installment of the respectives mentioned in requirements.txt, you will also need chrome driver" so install that too in your home-directory, for installation [Click here](https://chromedriver.chromium.org/)
@@ -42,7 +42,7 @@ To run the script type in 'create <name of your folder/repo>' in your terminal
 
  To run this python script permanently for automating project initialization, read `Reference 1`.
 
-Refereneces used to create this python script:
+**Refereneces used to create this python script:**
 
 [Referenece 1](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e) # creating a shell script
 
