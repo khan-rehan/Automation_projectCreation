@@ -1,6 +1,7 @@
 # Automating Project Initialization ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
 **For MAC USERS:**
+
 **Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
 
 # Installation:
