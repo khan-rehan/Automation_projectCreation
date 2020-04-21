@@ -1,10 +1,12 @@
 # Automating Project Initialization ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-## Tired of doing that same project initialization every single time while creating a project? Not anymore!!!
+**For MAC USERS:**
 
-# Install:
+**Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
 
-## Note:-
+# Installation:
+
+**Note:-**
 
 - Install it in your home-directory eg: `/User/Your-homedirectory`
 - !Important "After your installment of the respectives mentioned in requirements.txt, you will also need chrome driver" so install that too in your home-directory, for installation [Click here](https://chromedriver.chromium.org/)
@@ -22,7 +24,7 @@ Then go to create.py and set the username and password to be your username and p
 Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
 ```
 
-## Adding of github remote url in files:
+## Adding of github remote url in command script:
 
 For https:- `git remote add origin https://github.com/USERNAME/$1.git`
 
@@ -35,12 +37,12 @@ Refer, `Click on Reference 3` for further detailed explanation.
 # Usage:
 
 ```
-To run the script type in 'create <name of your folder/>repo>' in your terminal
+To run the script type in 'create <name of your folder/repo>' in your terminal
 ```
 
-## To run this python script permanently for automating project initialization, read `Reference 1`.
+ To run this python script permanently for automating project initialization, read `Reference 1`.
 
-Refereneces used to create this python script:
+**Refereneces used to create this python script:**
 
 [Referenece 1](https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e) # creating a shell script
 
