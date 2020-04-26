@@ -4,9 +4,13 @@
 
 **Tired of doing that same project initialization every single time while creating a project? Not anymore!!!**
  
- Wanna take a look??👉🏻👉🏻[See Demo](https://youtu.be/Lpo5AOpjQqc)
+ Wanna take a look??👉🏻👉🏻[See Demo](https://drive.google.com/file/d/1fxOUDBTTRx7c5eJ0y71_0DURdgcm6gq-/view?usp=sharing)
  
 User can choose to install with any of the script, either with GithubAPI or Selenium, installation remains the same.
+
+# Tasks
+
+<img width="330" alt="Screenshot 2020-04-26 at 12 31 32 PM" src="https://user-images.githubusercontent.com/42263217/80300394-e8a44280-87b9-11ea-8e26-1e915f503f83.png">
 
 # Installation:
 
