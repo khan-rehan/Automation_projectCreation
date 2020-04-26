@@ -45,7 +45,7 @@ Refer, `Click on Reference 3` for further detailed explanation.
 # Usage:
 
 ```
-To run the script type in 'create <name of your folder/repo>' in your terminal
+To run the script type in 'create <name of your folder or repo>' in your terminal
 ```
 
  To run this python script permanently for automating project initialization, read `Reference 1`.
